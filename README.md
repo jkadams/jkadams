@@ -1,3 +1,6 @@
-- 👋 Hi, I'm June Adams!
-- 👀 I'm interested in math, games, programming, and often the intersection of these! 
-- 🌱 I'm currently learning how to raise a baby, how to be my authentic self, and how to show up for social justice in the world. #BlackTransLivesMatter
+👋 Hi, I'm June!
+I like to be curious, help people, and I care about social justice.
+
+I enjoy (forgetting all my old knowledge of) math, (attempting to make) games, and (making ridiculous sounding) music!
+
+#BlackTransLivesMatter
